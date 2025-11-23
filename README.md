@@ -1,4 +1,4 @@
-# My Python Learning Journey 🐍
+# My Python Learning Journey 
 
 欢迎来到我的 Python 学习之旅！这个仓库保存了我在学习 Python 过程中自主创造的各种代码项目。
 
@@ -29,6 +29,12 @@ if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
 
 # 计算总天数
 total_days = sum(months_days[:month-1]) + day
+```
+
+## 🐍 学习心得与规划
+这一次练习使用GitHub这个工具很新奇，首先我浏览了GitHub Trending中的Python分区，看到一个trendreader的项目，
+
+
 
 
 
